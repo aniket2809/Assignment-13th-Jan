@@ -4,6 +4,8 @@ public class EmployeeDetails {
     private int salary;
     private String email;
 
+    //Adding Getters & Setters of the instance variables
+
     public String getEname(){
         return this.ename;
     }

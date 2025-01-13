@@ -4,6 +4,7 @@ public class Employee {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         EmployeeDetails e = new EmployeeDetails();
+        
         System.out.println("Enter employee name");
         String name = sc.next();
         System.out.println("Enter employee designation");
