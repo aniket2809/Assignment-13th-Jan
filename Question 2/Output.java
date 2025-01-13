@@ -19,7 +19,7 @@ public class Output {
         t.setSubject(tsubject);
         t.setYrsOfExp(tyrsOfExp);
 
-        //Inputing the deatisl of the Student
+        //Inputing the deatial of the First Student
         System.out.println("Enter the name of the first student");
         String sname=sc.next();
         System.out.println("Enter degree that the student has taken");
@@ -31,6 +31,7 @@ public class Output {
         s1.setDegree(sdegree);
         s1.setCollege(scollege);
 
+        //Inputing the details of the Second Student
         System.out.println("Enter the name of the second student");
         String sname1=sc.next();
         System.out.println("Enter degree that the first student has taken");
